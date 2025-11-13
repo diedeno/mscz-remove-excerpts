@@ -4,7 +4,7 @@
 Remove all parts from a MuseScore .mscz file. This cannot be done in MuseScore. A backup from the .mscz is made.
  
 ``` console
-Usage: remove_excerpts.py <path_to_mscz_file>a
+Usage: remove_excerpts.py <path_to_mscz_file>
  
 ```
 Or of course the executable name if binary is used; e.g:
