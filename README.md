@@ -1,10 +1,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 # mscz-remove-excerpts
-Remove all parts from a MuseScore .mscz file. This cannot be done in MuseScore.
+Remove all parts from a MuseScore .mscz file. This cannot be done in MuseScore. A backup from the .mscz is made.
  
 ``` console
-Usage: remove_excerpts.py <path_to_mscz_file>
+Usage: remove_excerpts.py <path_to_mscz_file>a
  
 ```
 Or of course the executable name if binary is used; e.g:
