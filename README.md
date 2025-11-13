@@ -13,3 +13,14 @@ Or of course the executable name if binary is used; e.g:
 Usage: remove_excerpts.exe <path_to_mscz_file>
  
 ```
+
+---
+
+## License
+
+This application is licensed under the **GPLv3 License**. See the `LICENSE` file for details.
+
+---
+
+## Support
+For issues or questions, please use Issues menu in this repository.
